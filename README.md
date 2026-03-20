@@ -26,8 +26,8 @@ It includes workflows for:
 - `preproc` (filtering, artefact removal, source reconstruction, parcellation)  
 - `calculation_of_power_spectra` (calculation of power spectra, defooofed power spectra, band power, defooofed band power, and aperiodic exponents)  
 - `aperiodic_exponent_analyses` (calculation and visualisation of GLMs contrasting aperiodic exponents between groups and investigating their association with ACE scores)  
-- `defooofed_band_power_analyses` (calculation and visualisation of GLMs contrasting defooofed band power between groups and investigating their association with ACE scores)  
-- `band_power_analyses` (calculation and visualisation of GLMs contrasting band power between groups)  
+- `defooofed_power_analyses` (calculation and visualisation of GLMs contrasting defooofed band power between groups and investigating their association with ACE scores)  
+- `power_analyses` (calculation and visualisation of GLMs contrasting band power between groups)  
 - `helper` (functions supporting figure generation)  
 
 ---
